@@ -27,10 +27,10 @@ clicky.setOptions({
 
 ### API
 
-####  - `clicky.setOptions(object)`
+#### - `clicky.setOptions(object)`
 Takes an object of options to override any defaults
 
-#### - `clicky.clickCount()`
+#### - `clicky.clickCount()`
 Returns the current click count, even after threshold has been reached
 
 #### - `clicky.threshold()`
