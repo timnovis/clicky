@@ -9,7 +9,11 @@
   "scripts": {
     "build": "webpack --progress --colors"
   },
-  "keywords": ["click", "counter", "localstorage"],
+  "keywords": [
+    "click",
+    "counter",
+    "localstorage"
+  ],
   "author": "Tim Novis <tim.novis@me.com>",
   "license": "MIT",
   "devDependencies": {
@@ -19,5 +23,14 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.0",
     "webpack": "^3.5.5"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timnovis/clicky.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timnovis/clicky/issues"
+  },
+  "homepage": "https://github.com/timnovis/clicky#readme"
 }
