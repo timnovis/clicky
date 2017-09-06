@@ -1,6 +1,6 @@
 {
   "name": "clicky",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use clicky to invoke a callback after a user has clicked around your site/application a certain amount of times.",
   "main": "index.js",
   "directories": {
